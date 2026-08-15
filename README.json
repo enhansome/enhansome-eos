@@ -179,7 +179,7 @@
             "last_commit": "2026-08-09T12:35:42Z",
             "owner": "greymass",
             "repo": "anchor",
-            "stars": 587
+            "stars": 588
           }
         },
         {
@@ -858,7 +858,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T03:52:18.006Z",
+    "last_updated": "2026-08-15T02:39:06.624Z",
     "original_repository": "superoneio/awesome-eos",
     "original_repository_sha": "f1dadb51cfd84e8a68e910ea2fad10df53fa9e77",
     "enhanced_repository": "enhansome/enhansome-eos",
