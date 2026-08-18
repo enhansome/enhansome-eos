@@ -350,7 +350,7 @@
             "last_commit": "2022-07-27T00:17:50Z",
             "owner": "EOSIO",
             "repo": "eos",
-            "stars": 11173
+            "stars": 11172
           }
         },
         {
@@ -507,7 +507,7 @@
             "last_commit": "2022-07-27T00:17:50Z",
             "owner": "EOSIO",
             "repo": "eos",
-            "stars": 11173
+            "stars": 11172
           }
         },
         {
@@ -858,7 +858,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T02:47:18.625Z",
+    "last_updated": "2026-08-18T02:42:23.943Z",
     "original_repository": "superoneio/awesome-eos",
     "original_repository_sha": "f1dadb51cfd84e8a68e910ea2fad10df53fa9e77",
     "enhanced_repository": "enhansome/enhansome-eos",
