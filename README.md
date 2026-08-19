@@ -2,7 +2,7 @@
 
 A curated list of EOS Ecosystem by [SuperONE](https://superone.io).
 
-[![](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)](https://github.com/sindresorhus/awesome) ⭐ 497,459 | 🐛 102 | 📅 2026-08-18
+[![](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)](https://github.com/sindresorhus/awesome) ⭐ 497,658 | 🐛 102 | 📅 2026-08-18
 [![](https://camo.githubusercontent.com/cb8cb80af654f3dae14a4aa62e44bf62f16953d6/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f6c616e672f6368696e6573652e737667)](README.md)
 [![](https://camo.githubusercontent.com/15a53d5ec5d896319068168a27da0203156bbdb9/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f6c616e672f656e676c6973682e737667)](README-en.md)
 
@@ -127,7 +127,7 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 
 ### 主网投票
 
-* <https://github.com/greymass/eos-voter> ⭐ 588 | 🐛 240 | 🌐 JavaScript | 📅 2026-08-09，开源的投票工具
+* <https://github.com/greymass/eos-voter> ⭐ 588 | 🐛 241 | 🌐 JavaScript | 📅 2026-08-19，开源的投票工具
 * <https://github.com/eoscanada/eosc> ⭐ 133 | 🐛 51 | 🌐 Go | 📅 2025-05-15，eosc 是一个跨平台的命令行工具 (支持 Windows, Mac 和 Linux)，你可以通过这个工具实现与 EOS.IO 区块链的交互，EOS Canada 出品
 * [EOS 离线投票工具](https://github.com/EOSeco-team/eos-local-voting-page) ⭐ 11 | 🐛 0 | 🌐 JavaScript | 📅 2018-06-13，EOSeco 出品
 * <https://github.com/eoscannon/EosCannon-Offline-Tools> ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2018-08-24，EOS 离线投票，by EOS Cannon

@@ -1,343 +1,356 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "EOS 主网"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "eos-bp-nodes-security-checklist",
-          "description": "，EOS 超级节点安全执行指南，慢雾团队出品，致敬",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-12-12T09:51:43Z",
-            "owner": "slowmist",
-            "repo": "eos-bp-nodes-security-checklist",
-            "stars": 355
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "eos-bp-nodes-security-checklist/audit.md",
-          "description": "，超级节点安全审计方案，慢雾团队出品，致敬",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-12-12T09:51:43Z",
-            "owner": "slowmist",
-            "repo": "eos-bp-nodes-security-checklist",
-            "stars": 355
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/eoscanada/eos-bios",
-          "description": "，Orchestrator for a decentralized EOS.IO blockchain network boot, by EOS Canad",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C",
-            "last_commit": "2019-06-11T20:07:48Z",
-            "owner": "eoscanada",
-            "repo": "eos-bios",
-            "stars": 169
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/eosnewyork/eospy",
-          "description": "，验证工具 by EOS NewYork",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2021-08-12T13:15:09Z",
-            "owner": "eosnewyork",
-            "repo": "eospy",
-            "stars": 147
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ghostbusters-Testnet",
-          "description": "，EOS Core-an EOS mainnet launch solution, by HKEOS and EOSRio",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2018-08-15T17:52:16Z",
-            "owner": "HKEOS",
-            "repo": "Ghostbusters-Testnet",
-            "stars": 60
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/consenlabs/eos-bp-profile",
-          "description": "，EOS Block Producer Profile，imToken 收集",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2019-05-16T09:20:46Z",
-            "owner": "consenlabs",
-            "repo": "eos-bp-profile",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/eosauthority/genesis",
-          "description": "，EOS Snapshot Generator",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-04-11T22:34:01Z",
-            "owner": "eosauthority",
-            "repo": "genesis",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/eostea/EOS-Boot-Steps-dawn4",
-          "description": "，EOSIO - 主网启动演练",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2018-09-21T13:32:15Z",
-            "owner": "web3tea",
-            "repo": "EOS-Boot-Steps-dawn4",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/EOSArgentina/firestarter",
-          "description": "，验证工具 by EOSArgentina",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-07-04T22:04:14Z",
-            "owner": "EOSArgentina",
-            "repo": "firestarter",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/onechainone/eos-bp-profile",
-          "description": "，EOS Block Producer Profile，OneChain 收集",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2018-06-26T03:14:48Z",
-            "owner": "onechainone",
-            "repo": "eos-bp-profile",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/winlin/eostoolkit",
-          "description": "，EOS 工具，EOSBixin 出品",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-06-29T21:03:28Z",
-            "owner": "winlin",
-            "repo": "eostoolkit",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "主网启动相关"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "https://github.com/greymass/eos-voter",
-          "description": "，开源的投票工具",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-08-09T12:35:42Z",
-            "owner": "greymass",
-            "repo": "anchor",
-            "stars": 588
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/eoscanada/eosc",
-          "description": "，eosc 是一个跨平台的命令行工具 (支持 Windows, Mac 和 Linux)，你可以通过这个工具实现与 EOS.IO 区块链的交互，EOS Canada 出品",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-05-15T15:29:49Z",
-            "owner": "eoscanada",
-            "repo": "eosc",
-            "stars": 133
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "EOS 离线投票工具",
-          "description": "，EOSeco 出品",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-06-13T17:22:20Z",
-            "owner": "EOSeco-team",
-            "repo": "eos-local-voting-page",
-            "stars": 11
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/eoscannon/EosCannon-Offline-Tools",
-          "description": "，EOS 离线投票，by EOS Cannon",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-08-24T02:30:37Z",
-            "owner": "eoscannon",
-            "repo": "EosCannon-Offline-Tools",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/EOSLaoMao/eos-local-voter",
-          "description": "，老猫团队出品的投票工具",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-06-11T09:18:28Z",
-            "owner": "EOSLaoMao",
-            "repo": "eos-local-voter",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/EOSLaoMao/eos-full-node",
-          "description": "，cleos 命令行投票指引",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2018-08-27T12:22:48Z",
-            "owner": "EOSLaoMao",
-            "repo": "eos-full-node",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/EOSLaoMao/eos-local-voter-desktop",
-          "description": "，目前只有 Mac 客户端",
-          "children": []
-        },
-        {
-          "node_type": "group",
-          "title": "https://toolkit.genereos.io/tools",
-          "description": "，EOS Toolkit by GenerEOS",
           "children": [
             {
               "node_type": "item",
-              "title": "https://github.com/genereos/eostoolkit",
-              "description": "，GitHub 源码",
+              "title": "eos-bp-nodes-security-checklist",
+              "description": "，EOS 超级节点安全执行指南，慢雾团队出品，致敬",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 135104851,
+                "language": null,
+                "last_commit": "2021-12-12T09:51:43Z",
+                "owner": "slowmist",
+                "repo": "eos-bp-nodes-security-checklist",
+                "stars": 355
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "eos-bp-nodes-security-checklist/audit.md",
+              "description": "，超级节点安全审计方案，慢雾团队出品，致敬",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 135104851,
+                "language": null,
+                "last_commit": "2021-12-12T09:51:43Z",
+                "owner": "slowmist",
+                "repo": "eos-bp-nodes-security-checklist",
+                "stars": 355
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/eoscanada/eos-bios",
+              "description": "，Orchestrator for a decentralized EOS.IO blockchain network boot, by EOS Canad",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 124452272,
+                "language": "C",
+                "last_commit": "2019-06-11T20:07:48Z",
+                "owner": "eoscanada",
+                "repo": "eos-bios",
+                "stars": 169
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/eosnewyork/eospy",
+              "description": "，验证工具 by EOS NewYork",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 135657913,
+                "language": "Python",
+                "last_commit": "2021-08-12T13:15:09Z",
+                "owner": "eosnewyork",
+                "repo": "eospy",
+                "stars": 147
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ghostbusters-Testnet",
+              "description": "，EOS Core-an EOS mainnet launch solution, by HKEOS and EOSRio",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133342137,
+                "language": "Shell",
+                "last_commit": "2018-08-15T17:52:16Z",
+                "owner": "HKEOS",
+                "repo": "Ghostbusters-Testnet",
+                "stars": 60
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/consenlabs/eos-bp-profile",
+              "description": "，EOS Block Producer Profile，imToken 收集",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 135386811,
                 "language": "JavaScript",
-                "last_commit": "2018-07-23T01:24:42Z",
-                "owner": "GenerEOSAus",
+                "last_commit": "2019-05-16T09:20:46Z",
+                "owner": "consenlabs",
+                "repo": "eos-bp-profile",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/eosauthority/genesis",
+              "description": "，EOS Snapshot Generator",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 134955535,
+                "language": "JavaScript",
+                "last_commit": "2022-04-11T22:34:01Z",
+                "owner": "eosauthority",
+                "repo": "genesis",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/eostea/EOS-Boot-Steps-dawn4",
+              "description": "，EOSIO - 主网启动演练",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 134672319,
+                "language": "Shell",
+                "last_commit": "2018-09-21T13:32:15Z",
+                "owner": "web3tea",
+                "repo": "EOS-Boot-Steps-dawn4",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/EOSArgentina/firestarter",
+              "description": "，验证工具 by EOSArgentina",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 135725161,
+                "language": "Python",
+                "last_commit": "2018-07-04T22:04:14Z",
+                "owner": "EOSArgentina",
+                "repo": "firestarter",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/onechainone/eos-bp-profile",
+              "description": "，EOS Block Producer Profile，OneChain 收集",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 135676300,
+                "language": null,
+                "last_commit": "2018-06-26T03:14:48Z",
+                "owner": "onechainone",
+                "repo": "eos-bp-profile",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/winlin/eostoolkit",
+              "description": "，EOS 工具，EOSBixin 出品",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 131824510,
+                "language": "Python",
+                "last_commit": "2020-06-29T21:03:28Z",
+                "owner": "winlin",
                 "repo": "eostoolkit",
-                "stars": 51
+                "stars": 4
               }
             }
-          ]
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "主网启动相关"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/greymass/eos-voter",
+              "description": "，开源的投票工具",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 134008831,
+                "language": "JavaScript",
+                "last_commit": "2026-08-19T08:03:03Z",
+                "owner": "greymass",
+                "repo": "anchor",
+                "stars": 588
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/eoscanada/eosc",
+              "description": "，eosc 是一个跨平台的命令行工具 (支持 Windows, Mac 和 Linux)，你可以通过这个工具实现与 EOS.IO 区块链的交互，EOS Canada 出品",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 135083726,
+                "language": "Go",
+                "last_commit": "2025-05-15T15:29:49Z",
+                "owner": "eoscanada",
+                "repo": "eosc",
+                "stars": 133
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EOS 离线投票工具",
+              "description": "，EOSeco 出品",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 136973216,
+                "language": "JavaScript",
+                "last_commit": "2018-06-13T17:22:20Z",
+                "owner": "EOSeco-team",
+                "repo": "eos-local-voting-page",
+                "stars": 11
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/eoscannon/EosCannon-Offline-Tools",
+              "description": "，EOS 离线投票，by EOS Cannon",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 138855692,
+                "language": "JavaScript",
+                "last_commit": "2018-08-24T02:30:37Z",
+                "owner": "eoscannon",
+                "repo": "EosCannon-Offline-Tools",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/EOSLaoMao/eos-local-voter",
+              "description": "，老猫团队出品的投票工具",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 136289871,
+                "language": "JavaScript",
+                "last_commit": "2018-06-11T09:18:28Z",
+                "owner": "EOSLaoMao",
+                "repo": "eos-local-voter",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/EOSLaoMao/eos-full-node",
+              "description": "，cleos 命令行投票指引",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 136903099,
+                "language": "Shell",
+                "last_commit": "2018-08-27T12:22:48Z",
+                "owner": "EOSLaoMao",
+                "repo": "eos-full-node",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "group",
+              "title": "https://toolkit.genereos.io/tools",
+              "description": "，EOS Toolkit by GenerEOS",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "https://github.com/genereos/eostoolkit",
+                  "description": "，GitHub 源码",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 136027282,
+                    "language": "JavaScript",
+                    "last_commit": "2018-07-23T01:24:42Z",
+                    "owner": "GenerEOSAus",
+                    "repo": "eostoolkit",
+                    "stars": 51
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "主网投票"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/BlockMatrixNetwork/eos-bp-failover",
+              "description": "，EOS 出块节点切换脚本，by Block Matrix",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 137489291,
+                "language": "Shell",
+                "last_commit": "2019-01-22T14:09:40Z",
+                "owner": "pete001",
+                "repo": "eos-bp-failover",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "eos-claimer",
+              "description": "，获取奖励工具，by EOS Canada",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 138258500,
+                "language": "Go",
+                "last_commit": "2018-08-30T19:17:08Z",
+                "owner": "eoscanada",
+                "repo": "eos-claimer",
+                "stars": 27
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/eossv/bp-monitor",
+              "description": "，通过 head_block_time 检测节点出块状态，支持 email 提醒，也可配置电话/短信/自定义提醒，by EOS Silicon Valley",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 137838474,
+                "language": "Python",
+                "last_commit": "2018-08-26T18:24:13Z",
+                "owner": "eossv",
+                "repo": "bp-tools",
+                "stars": 13
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "DevOps"
         }
       ],
-      "title": "主网投票"
+      "title": "EOS 主网"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "https://github.com/BlockMatrixNetwork/eos-bp-failover",
-          "description": "，EOS 出块节点切换脚本，by Block Matrix",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2019-01-22T14:09:40Z",
-            "owner": "pete001",
-            "repo": "eos-bp-failover",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "eos-claimer",
-          "description": "，获取奖励工具，by EOS Canada",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2018-08-30T19:17:08Z",
-            "owner": "eoscanada",
-            "repo": "eos-claimer",
-            "stars": 27
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/eossv/bp-monitor",
-          "description": "，通过 head_block_time 检测节点出块状态，支持 email 提醒，也可配置电话/短信/自定义提醒，by EOS Silicon Valley",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-08-26T18:24:13Z",
-            "owner": "eossv",
-            "repo": "bp-tools",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/EOSpace/eos-sync",
-          "description": "，同步 EOS 区块链数据到 MongoDB 数据库，by EOSpace",
-          "children": []
-        }
-      ],
-      "title": "DevOps"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -346,6 +359,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 87335980,
             "language": "C++",
             "last_commit": "2022-07-27T00:17:50Z",
             "owner": "EOSIO",
@@ -360,6 +374,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93491617,
             "language": null,
             "last_commit": "2022-09-21T17:24:36Z",
             "owner": "EOSIO",
@@ -374,6 +389,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93491617,
             "language": null,
             "last_commit": "2022-09-21T17:24:36Z",
             "owner": "EOSIO",
@@ -388,6 +404,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 123611307,
             "language": null,
             "last_commit": "2022-04-27T13:49:11Z",
             "owner": "EOS-Nation",
@@ -402,6 +419,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135668341,
             "language": null,
             "last_commit": "2018-06-12T20:22:16Z",
             "owner": "EOS-Mainnet",
@@ -413,7 +431,7 @@
       "title": "文档"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -422,6 +440,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 99262393,
             "language": "TypeScript",
             "last_commit": "2022-08-01T01:38:25Z",
             "owner": "EOSIO",
@@ -436,6 +455,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 119925832,
             "language": "Go",
             "last_commit": "2024-10-29T14:45:40Z",
             "owner": "eoscanada",
@@ -450,6 +470,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 130308439,
             "language": "C++",
             "last_commit": "2018-11-20T06:03:48Z",
             "owner": "OracleChain",
@@ -464,6 +485,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 130690639,
             "language": "C",
             "last_commit": "2019-04-18T08:35:09Z",
             "owner": "ProChain",
@@ -478,6 +500,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 138315472,
             "language": "Assembly",
             "last_commit": "2018-10-31T02:59:36Z",
             "owner": "EOS-BP-Developers",
@@ -489,377 +512,386 @@
       "title": "开发"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/EOSIO/eos/releases",
+              "description": "，EOSIO 官方版本",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 87335980,
+                "language": "C++",
+                "last_commit": "2022-07-27T00:17:50Z",
+                "owner": "EOSIO",
+                "repo": "eos",
+                "stars": 11172
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EOS.IO Technical White Paper v2",
+              "description": "，EOS 白皮书",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93491617,
+                "language": null,
+                "last_commit": "2022-09-21T17:24:36Z",
+                "owner": "EOSIO",
+                "repo": "Documentation",
+                "stars": 2035
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/EOS-Mainnet/eos/releases",
+              "description": "，EOS-Mainnet 社区维护版本",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 135583468,
+                "language": "C++",
+                "last_commit": "2019-11-05T10:45:08Z",
+                "owner": "EOS-Mainnet",
+                "repo": "eos",
+                "stars": 172
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "下载"
+        }
+      ],
       "title": "资源"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "https://github.com/EOSIO/eos/releases",
-          "description": "，EOSIO 官方版本",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C++",
-            "last_commit": "2022-07-27T00:17:50Z",
-            "owner": "EOSIO",
-            "repo": "eos",
-            "stars": 11172
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/webdigi/EOS-Offline-Private-key-check",
+              "description": "，EOS 离线公私钥配对检测工具",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 118752327,
+                "language": "JavaScript",
+                "last_commit": "2022-01-28T08:53:12Z",
+                "owner": "webdigi",
+                "repo": "EOS-Offline-Private-key-check",
+                "stars": 67
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "get-eoskey-from-ethkey",
+              "description": "，用你的以太坊私钥找回丢失的 EOS，访问 http://getfallbackeos.mytokenpocket.vip",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 137458326,
+                "language": "JavaScript",
+                "last_commit": "2018-06-15T08:10:33Z",
+                "owner": "tokenbankteam",
+                "repo": "get-eoskey-from-ethkey",
+                "stars": 9
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/breakstring/savemyeosram",
+              "description": "，释放掉发行的 EOS 空气代币所占用的内存",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 140130188,
+                "language": "WebAssembly",
+                "last_commit": "2018-07-08T06:34:59Z",
+                "owner": "breakstring",
+                "repo": "savemyeosram",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "账号相关工具"
         },
         {
-          "node_type": "item",
-          "title": "EOS.IO Technical White Paper v2",
-          "description": "，EOS 白皮书",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-09-21T17:24:36Z",
-            "owner": "EOSIO",
-            "repo": "Documentation",
-            "stars": 2035
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/EOS-Mainnet/eos/releases",
-          "description": "，EOS-Mainnet 社区维护版本",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2019-11-05T10:45:08Z",
-            "owner": "EOS-Mainnet",
-            "repo": "eos",
-            "stars": 172
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/EOSIO/patroneos",
+              "description": "，RPC Checkpoint for EOS nodes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 132928899,
+                "language": "Go",
+                "last_commit": "2022-09-21T17:26:59Z",
+                "owner": "EOSIO",
+                "repo": "patroneos",
+                "stars": 47
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/OracleChain/EOSBenchTool",
+              "description": "，EOS 性能测试工具",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133009795,
+                "language": "C++",
+                "last_commit": "2018-09-27T06:45:26Z",
+                "owner": "OracleChain",
+                "repo": "EOSBenchTool",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/wangweiX/eosram-trading-robot",
+              "description": "，EOS RAM 交易机器人",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 140318964,
+                "language": "JavaScript",
+                "last_commit": "2022-02-05T13:35:18Z",
+                "owner": "wangweiX",
+                "repo": "eosram-trading-robot",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/ukarlsson/eos-clion-example",
+              "description": "，使用 CLion 的示例代码",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 123822689,
+                "language": "CMake",
+                "last_commit": "2018-04-23T04:07:09Z",
+                "owner": "ukarlsson",
+                "repo": "eos-clion-example",
+                "stars": 23
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/eosdetroit/bp-playbook",
+              "description": ", Ansible playbook to dynamically deploy Dockerized nodeos",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133049970,
+                "language": "Shell",
+                "last_commit": "2018-06-02T00:58:49Z",
+                "owner": "eosdetroit",
+                "repo": "bp-playbook",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/eoseoul/eos-ramcost",
+              "description": ", Adjusting supply of a token and connector balance of bancor during final phase of boot",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 136478804,
+                "language": "C++",
+                "last_commit": "2022-03-13T20:18:32Z",
+                "owner": "eoseoul",
+                "repo": "eos-ramcost",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/activeeos/eos-helm",
+              "description": "，Kubernetes Helm charts for the EOS smart contracts platform",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 132218638,
+                "language": "Smarty",
+                "last_commit": "2018-06-09T17:29:57Z",
+                "owner": "activeeos",
+                "repo": "eos-helm",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "eosDataConditionSearch",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 138982121,
+                "language": "Java",
+                "last_commit": "2018-06-28T10:41:52Z",
+                "owner": "OracleChain",
+                "repo": "eosDataConditionSearch",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/tokenbankteam/eos-bp-profile-parser",
+              "description": "，EOS BP Profile 解析工具",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 135841079,
+                "language": "JavaScript",
+                "last_commit": "2018-06-10T08:06:37Z",
+                "owner": "tokenbankteam",
+                "repo": "eos-bp-profile-parser",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "其他工具"
         }
       ],
-      "title": "下载"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "工具"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "https://github.com/webdigi/EOS-Offline-Private-key-check",
-          "description": "，EOS 离线公私钥配对检测工具",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-01-28T08:53:12Z",
-            "owner": "webdigi",
-            "repo": "EOS-Offline-Private-key-check",
-            "stars": 67
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "get-eoskey-from-ethkey",
-          "description": "，用你的以太坊私钥找回丢失的 EOS，访问 http://getfallbackeos.mytokenpocket.vip",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-06-15T08:10:33Z",
-            "owner": "tokenbankteam",
-            "repo": "get-eoskey-from-ethkey",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/breakstring/savemyeosram",
-          "description": "，释放掉发行的 EOS 空气代币所占用的内存",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "WebAssembly",
-            "last_commit": "2018-07-08T06:34:59Z",
-            "owner": "breakstring",
-            "repo": "savemyeosram",
-            "stars": 5
-          }
-        }
-      ],
-      "title": "账号相关工具"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "https://github.com/EOSIO/patroneos",
-          "description": "，RPC Checkpoint for EOS nodes",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2022-09-21T17:26:59Z",
-            "owner": "EOSIO",
-            "repo": "patroneos",
-            "stars": 47
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/OracleChain/EOSBenchTool",
-          "description": "，EOS 性能测试工具",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2018-09-27T06:45:26Z",
-            "owner": "OracleChain",
-            "repo": "EOSBenchTool",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/wangweiX/eosram-trading-robot",
-          "description": "，EOS RAM 交易机器人",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-02-05T13:35:18Z",
-            "owner": "wangweiX",
-            "repo": "eosram-trading-robot",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/ukarlsson/eos-clion-example",
-          "description": "，使用 CLion 的示例代码",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CMake",
-            "last_commit": "2018-04-23T04:07:09Z",
-            "owner": "ukarlsson",
-            "repo": "eos-clion-example",
-            "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/eosdetroit/bp-playbook",
-          "description": ", Ansible playbook to dynamically deploy Dockerized nodeos",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2018-06-02T00:58:49Z",
-            "owner": "eosdetroit",
-            "repo": "bp-playbook",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/eoseoul/eos-ramcost",
-          "description": ", Adjusting supply of a token and connector balance of bancor during final phase of boot",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2022-03-13T20:18:32Z",
-            "owner": "eoseoul",
-            "repo": "eos-ramcost",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/activeeos/eos-helm",
-          "description": "，Kubernetes Helm charts for the EOS smart contracts platform",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Smarty",
-            "last_commit": "2018-06-09T17:29:57Z",
-            "owner": "activeeos",
-            "repo": "eos-helm",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "eosDataConditionSearch",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/plactal/EosCommander",
+              "description": "，GitHub 开源",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 111535977,
+                "language": "Java",
+                "last_commit": "2020-05-21T07:18:09Z",
+                "owner": "swapnibble",
+                "repo": "EosCommander",
+                "stars": 213
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/OracleChain/PocketEOS-Android",
+              "description": "，PocketEOS 安卓版",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 135434843,
+                "language": "Java",
+                "last_commit": "2018-09-14T08:46:41Z",
+                "owner": "OracleChain",
+                "repo": "PocketEOS-Android",
+                "stars": 156
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/espritblock/eos4j",
+              "description": "，GitHub 开源",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 134369375,
+                "language": "Java",
+                "last_commit": "2018-12-25T13:31:25Z",
+                "owner": "espritblock",
+                "repo": "eos4j",
+                "stars": 155
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/OracleChain/PocketEOS-IOS",
+              "description": "，PocketEOS iOS 版",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 135434612,
+                "language": "Objective-C",
+                "last_commit": "2018-11-22T08:27:13Z",
+                "owner": "OracleChain",
+                "repo": "PocketEOS-IOS",
+                "stars": 111
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/eostea/eos-wallet",
+              "description": "，EOSTEA 出品，VUE + JS，开源",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 136911011,
+                "language": "Vue",
+                "last_commit": "2018-07-11T14:35:57Z",
+                "owner": "web3tea",
+                "repo": "eos-wallet",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/espritblock/react-native-eos",
+              "description": "，React",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133155686,
+                "language": "JavaScript",
+                "last_commit": "2018-11-07T13:43:10Z",
+                "owner": "espritblock",
+                "repo": "react-native-eos",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/EOSEssentials/EOSWallet",
+              "description": "，较早开源的钱包",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121955130,
+                "language": "TypeScript",
+                "last_commit": "2018-06-15T07:53:07Z",
+                "owner": "EOSEssentials2",
+                "repo": "EOSWallet",
+                "stars": 35
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2018-06-28T10:41:52Z",
-            "owner": "OracleChain",
-            "repo": "eosDataConditionSearch",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/tokenbankteam/eos-bp-profile-parser",
-          "description": "，EOS BP Profile 解析工具",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-06-10T08:06:37Z",
-            "owner": "tokenbankteam",
-            "repo": "eos-bp-profile-parser",
-            "stars": 2
-          }
+          "node_type": "group",
+          "title": "开源钱包"
         }
       ],
-      "title": "其他工具"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "EOS 钱包"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "https://github.com/plactal/EosCommander",
-          "description": "，GitHub 开源",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2020-05-21T07:18:09Z",
-            "owner": "swapnibble",
-            "repo": "EosCommander",
-            "stars": 213
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/OracleChain/PocketEOS-Android",
-          "description": "，PocketEOS 安卓版",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2018-09-14T08:46:41Z",
-            "owner": "OracleChain",
-            "repo": "PocketEOS-Android",
-            "stars": 156
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/espritblock/eos4j",
-          "description": "，GitHub 开源",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2018-12-25T13:31:25Z",
-            "owner": "espritblock",
-            "repo": "eos4j",
-            "stars": 155
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/OracleChain/PocketEOS-IOS",
-          "description": "，PocketEOS iOS 版",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2018-11-22T08:27:13Z",
-            "owner": "OracleChain",
-            "repo": "PocketEOS-IOS",
-            "stars": 111
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/eostea/eos-wallet",
-          "description": "，EOSTEA 出品，VUE + JS，开源",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Vue",
-            "last_commit": "2018-07-11T14:35:57Z",
-            "owner": "web3tea",
-            "repo": "eos-wallet",
-            "stars": 55
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/espritblock/react-native-eos",
-          "description": "，React",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-11-07T13:43:10Z",
-            "owner": "espritblock",
-            "repo": "react-native-eos",
-            "stars": 54
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/EOSEssentials/EOSWallet",
-          "description": "，较早开源的钱包",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2018-06-15T07:53:07Z",
-            "owner": "EOSEssentials2",
-            "repo": "EOSWallet",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/eostoken/wallet",
-          "description": "，GitHub 开源",
-          "children": []
-        }
-      ],
-      "title": "开源钱包"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "交易所"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Dapp"
-    },
-    {
-      "description": "This list is released into the public domain.\nSuperONE, robin",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:44:39.670Z",
+    "last_updated": "2026-08-19T12:28:37.498Z",
     "original_repository": "superoneio/awesome-eos",
+    "original_repository_id": 137010807,
     "original_repository_sha": "f1dadb51cfd84e8a68e910ea2fad10df53fa9e77",
     "enhanced_repository": "enhansome/enhansome-eos",
     "enhanced_repository_description": null,
