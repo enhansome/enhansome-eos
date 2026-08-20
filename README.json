@@ -186,7 +186,7 @@
                 "archived": false,
                 "id": 134008831,
                 "language": "JavaScript",
-                "last_commit": "2026-08-19T08:03:03Z",
+                "last_commit": "2026-08-19T20:45:50Z",
                 "owner": "greymass",
                 "repo": "anchor",
                 "stars": 588
@@ -379,7 +379,7 @@
             "last_commit": "2022-09-21T17:24:36Z",
             "owner": "EOSIO",
             "repo": "Documentation",
-            "stars": 2035
+            "stars": 2036
           }
         },
         {
@@ -394,7 +394,7 @@
             "last_commit": "2022-09-21T17:24:36Z",
             "owner": "EOSIO",
             "repo": "Documentation",
-            "stars": 2035
+            "stars": 2036
           }
         },
         {
@@ -543,7 +543,7 @@
                 "last_commit": "2022-09-21T17:24:36Z",
                 "owner": "EOSIO",
                 "repo": "Documentation",
-                "stars": 2035
+                "stars": 2036
               }
             },
             {
@@ -889,7 +889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:28:37.498Z",
+    "last_updated": "2026-08-20T02:43:52.842Z",
     "original_repository": "superoneio/awesome-eos",
     "original_repository_id": 137010807,
     "original_repository_sha": "f1dadb51cfd84e8a68e910ea2fad10df53fa9e77",
