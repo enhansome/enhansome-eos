@@ -445,7 +445,7 @@
             "last_commit": "2022-08-01T01:38:25Z",
             "owner": "EOSIO",
             "repo": "eosjs",
-            "stars": 1424
+            "stars": 1423
           }
         },
         {
@@ -889,7 +889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T02:49:56.097Z",
+    "last_updated": "2026-08-22T02:41:01.266Z",
     "original_repository": "superoneio/awesome-eos",
     "original_repository_id": 137010807,
     "original_repository_sha": "f1dadb51cfd84e8a68e910ea2fad10df53fa9e77",
