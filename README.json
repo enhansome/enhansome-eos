@@ -379,7 +379,7 @@
             "last_commit": "2022-09-21T17:24:36Z",
             "owner": "EOSIO",
             "repo": "Documentation",
-            "stars": 2036
+            "stars": 2035
           }
         },
         {
@@ -394,7 +394,7 @@
             "last_commit": "2022-09-21T17:24:36Z",
             "owner": "EOSIO",
             "repo": "Documentation",
-            "stars": 2036
+            "stars": 2035
           }
         },
         {
@@ -543,7 +543,7 @@
                 "last_commit": "2022-09-21T17:24:36Z",
                 "owner": "EOSIO",
                 "repo": "Documentation",
-                "stars": 2036
+                "stars": 2035
               }
             },
             {
@@ -889,7 +889,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T02:41:01.266Z",
+    "last_updated": "2026-08-23T02:50:38.391Z",
     "original_repository": "superoneio/awesome-eos",
     "original_repository_id": 137010807,
     "original_repository_sha": "f1dadb51cfd84e8a68e910ea2fad10df53fa9e77",
