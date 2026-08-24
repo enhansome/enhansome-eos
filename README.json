@@ -178,6 +178,35 @@
         {
           "children": [
             {
+              "node_type": "group",
+              "title": "http://eostracker.io",
+              "description": "，较早开源的 EOS 区块链浏览器",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "GitHub",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 120499419,
+                    "language": "TypeScript",
+                    "last_commit": "2020-01-21T13:04:27Z",
+                    "owner": "EOSEssentials2",
+                    "repo": "EOSTracker2",
+                    "stars": 164
+                  }
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "区块浏览器"
+        },
+        {
+          "children": [
+            {
               "node_type": "item",
               "title": "https://github.com/greymass/eos-voter",
               "description": "，开源的投票工具",
@@ -889,7 +918,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:50:59.370Z",
+    "last_updated": "2026-08-24T14:36:29.170Z",
     "original_repository": "superoneio/awesome-eos",
     "original_repository_id": 137010807,
     "original_repository_sha": "f1dadb51cfd84e8a68e910ea2fad10df53fa9e77",
