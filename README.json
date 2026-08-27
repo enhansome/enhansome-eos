@@ -918,9 +918,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:53:07.550Z",
-    "original_repository": "superoneio/awesome-eos",
-    "original_repository_id": 137010807,
+    "last_updated": "2026-08-27T11:36:19.172Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 137010807,
+      "language": null,
+      "last_commit": "2018-11-02T11:36:04Z",
+      "owner": "superoneio",
+      "repo": "awesome-eos",
+      "stars": 159
+    },
     "original_repository_sha": "f1dadb51cfd84e8a68e910ea2fad10df53fa9e77",
     "enhanced_repository": "enhansome/enhansome-eos",
     "enhanced_repository_description": null,
