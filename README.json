@@ -573,7 +573,7 @@
             "open_issues": 384,
             "owner": "EOSIO",
             "repo": "eos",
-            "stars": 11172,
+            "stars": 11171,
             "topics": [
               "eosio"
             ]
@@ -596,7 +596,7 @@
             "open_issues": 85,
             "owner": "EOSIO",
             "repo": "Documentation",
-            "stars": 2035,
+            "stars": 2034,
             "topics": []
           },
           "first_seen": "2026-08-28T13:23:14.439Z"
@@ -617,7 +617,7 @@
             "open_issues": 85,
             "owner": "EOSIO",
             "repo": "Documentation",
-            "stars": 2035,
+            "stars": 2034,
             "topics": []
           },
           "first_seen": "2026-08-28T13:23:14.439Z"
@@ -817,7 +817,7 @@
                 "open_issues": 384,
                 "owner": "EOSIO",
                 "repo": "eos",
-                "stars": 11172,
+                "stars": 11171,
                 "topics": [
                   "eosio"
                 ]
@@ -840,7 +840,7 @@
                 "open_issues": 85,
                 "owner": "EOSIO",
                 "repo": "Documentation",
-                "stars": 2035,
+                "stars": 2034,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:23:14.439Z"
@@ -1323,7 +1323,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T06:39:28.239Z",
+    "last_updated": "2026-09-08T06:33:20.424Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of EOS Ecosystem by SuperONE.",
