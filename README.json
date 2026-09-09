@@ -573,7 +573,7 @@
             "open_issues": 384,
             "owner": "EOSIO",
             "repo": "eos",
-            "stars": 11171,
+            "stars": 11170,
             "topics": [
               "eosio"
             ]
@@ -817,7 +817,7 @@
                 "open_issues": 384,
                 "owner": "EOSIO",
                 "repo": "eos",
-                "stars": 11171,
+                "stars": 11170,
                 "topics": [
                   "eosio"
                 ]
@@ -1247,27 +1247,6 @@
             },
             {
               "node_type": "item",
-              "title": "web3tea/eos-wallet",
-              "description": "，EOSTEA 出品，VUE + JS，开源",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "EOS Wallet.",
-                "homepage": null,
-                "id": 136911011,
-                "language": "Vue",
-                "license": null,
-                "last_commit": "2018-07-11T14:35:57Z",
-                "open_issues": 4,
-                "owner": "web3tea",
-                "repo": "eos-wallet",
-                "stars": 55,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T13:23:14.439Z"
-            },
-            {
-              "node_type": "item",
               "title": "espritblock/react-native-eos",
               "description": "，React",
               "children": [],
@@ -1282,6 +1261,27 @@
                 "open_issues": 5,
                 "owner": "espritblock",
                 "repo": "react-native-eos",
+                "stars": 54,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T13:23:14.439Z"
+            },
+            {
+              "node_type": "item",
+              "title": "web3tea/eos-wallet",
+              "description": "，EOSTEA 出品，VUE + JS，开源",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "description": "EOS Wallet.",
+                "homepage": null,
+                "id": 136911011,
+                "language": "Vue",
+                "license": null,
+                "last_commit": "2018-07-11T14:35:57Z",
+                "open_issues": 4,
+                "owner": "web3tea",
+                "repo": "eos-wallet",
                 "stars": 54,
                 "topics": []
               },
@@ -1323,7 +1323,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T06:33:20.424Z",
+    "last_updated": "2026-09-09T06:44:55.596Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of EOS Ecosystem by SuperONE.",
