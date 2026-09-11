@@ -1323,7 +1323,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T06:39:24.267Z",
+    "last_updated": "2026-09-11T06:38:55.777Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of EOS Ecosystem by SuperONE.",
@@ -1335,7 +1335,7 @@
       "open_issues": 2,
       "owner": "superoneio",
       "repo": "awesome-eos",
-      "stars": 159,
+      "stars": 160,
       "topics": [
         "awesome",
         "awesome-list",
