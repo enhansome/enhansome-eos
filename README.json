@@ -314,12 +314,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Antelope Desktop Wallet and Authenticator",
-                "homepage": "https://greymass.com/anchor/",
+                "description": "Anchor Wallet desktop app for Vaulta (formerly EOS), WAX, Telos and other Antelope networks",
+                "homepage": "https://anchorwallet.io",
                 "id": 134008831,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-18T03:59:13Z",
+                "last_commit": "2026-09-23T20:15:03Z",
                 "open_issues": 240,
                 "owner": "greymass",
                 "repo": "anchor",
@@ -596,7 +596,7 @@
             "open_issues": 85,
             "owner": "EOSIO",
             "repo": "Documentation",
-            "stars": 2033,
+            "stars": 2032,
             "topics": []
           },
           "first_seen": "2026-08-28T13:23:14.439Z"
@@ -617,7 +617,7 @@
             "open_issues": 85,
             "owner": "EOSIO",
             "repo": "Documentation",
-            "stars": 2033,
+            "stars": 2032,
             "topics": []
           },
           "first_seen": "2026-08-28T13:23:14.439Z"
@@ -840,7 +840,7 @@
                 "open_issues": 85,
                 "owner": "EOSIO",
                 "repo": "Documentation",
-                "stars": 2033,
+                "stars": 2032,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:23:14.439Z"
@@ -1323,7 +1323,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T06:44:06.471Z",
+    "last_updated": "2026-09-24T06:47:07.102Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of EOS Ecosystem by SuperONE.",
