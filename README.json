@@ -861,7 +861,7 @@
                 "open_issues": 3,
                 "owner": "EOS-Mainnet",
                 "repo": "eos",
-                "stars": 172,
+                "stars": 173,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:23:14.439Z"
@@ -1323,7 +1323,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T06:47:07.102Z",
+    "last_updated": "2026-09-25T06:40:43.453Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of EOS Ecosystem by SuperONE.",
