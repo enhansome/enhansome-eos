@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "slowmist",
                 "repo": "eos-bp-nodes-security-checklist",
-                "stars": 355,
+                "stars": 354,
                 "topics": [
                   "blockchain",
                   "checklist",
@@ -48,7 +48,7 @@
                 "open_issues": 0,
                 "owner": "slowmist",
                 "repo": "eos-bp-nodes-security-checklist",
-                "stars": 355,
+                "stars": 354,
                 "topics": [
                   "blockchain",
                   "checklist",
@@ -573,7 +573,7 @@
             "open_issues": 384,
             "owner": "EOSIO",
             "repo": "eos",
-            "stars": 11170,
+            "stars": 11169,
             "topics": [
               "eosio"
             ]
@@ -817,7 +817,7 @@
                 "open_issues": 384,
                 "owner": "EOSIO",
                 "repo": "eos",
-                "stars": 11170,
+                "stars": 11169,
                 "topics": [
                   "eosio"
                 ]
@@ -1323,7 +1323,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T07:31:57.914Z",
+    "last_updated": "2026-09-30T07:30:32.596Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of EOS Ecosystem by SuperONE.",

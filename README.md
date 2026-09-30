@@ -2,7 +2,7 @@
 
 A curated list of EOS Ecosystem by [SuperONE](https://superone.io).
 
-[![](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)](https://github.com/sindresorhus/awesome) ⭐ 512,140 | 🐛 106 | 📅 2026-09-02
+[![](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)](https://github.com/sindresorhus/awesome) ⭐ 512,583 | 🐛 106 | 📅 2026-09-02
 [![](https://camo.githubusercontent.com/cb8cb80af654f3dae14a4aa62e44bf62f16953d6/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f6c616e672f6368696e6573652e737667)](README.md)
 [![](https://camo.githubusercontent.com/15a53d5ec5d896319068168a27da0203156bbdb9/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f6c616e672f656e676c6973682e737667)](README-en.md)
 
@@ -25,8 +25,8 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 
 ### 主网启动相关
 
-* [eos-bp-nodes-security-checklist](https://github.com/slowmist/eos-bp-nodes-security-checklist) ⭐ 355 | 🐛 0 | 📅 2021-12-12，EOS 超级节点安全执行指南，慢雾团队出品，致敬
-* [eos-bp-nodes-security-checklist/audit.md](https://github.com/slowmist/eos-bp-nodes-security-checklist/blob/master/audit.md) ⭐ 355 | 🐛 0 | 📅 2021-12-12，超级节点安全审计方案，慢雾团队出品，致敬
+* [eos-bp-nodes-security-checklist](https://github.com/slowmist/eos-bp-nodes-security-checklist) ⭐ 354 | 🐛 0 | 📅 2021-12-12，EOS 超级节点安全执行指南，慢雾团队出品，致敬
+* [eos-bp-nodes-security-checklist/audit.md](https://github.com/slowmist/eos-bp-nodes-security-checklist/blob/master/audit.md) ⭐ 354 | 🐛 0 | 📅 2021-12-12，超级节点安全审计方案，慢雾团队出品，致敬
 * <https://github.com/eoscanada/eos-bios> ⚠️ Archived，Orchestrator for a decentralized EOS.IO blockchain network boot, by EOS Canad
 * <https://github.com/eosnewyork/eospy> ⚠️ Archived，验证工具 by EOS NewYork
 * [Ghostbusters-Testnet](https://github.com/HKEOS/Ghostbusters-Testnet) ⭐ 60 | 🐛 2 | 🌐 Shell | 📅 2018-08-15，EOS Core-an EOS mainnet launch solution, by HKEOS and EOSRio
@@ -455,4 +455,4 @@ SuperONE, robin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
