@@ -274,7 +274,7 @@
                 {
                   "node_type": "item",
                   "title": "EOSEssentials2/EOSTracker2",
-                  "description": null,
+                  "description": "EOSEssentials2/EOSTracker2",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1109,7 +1109,7 @@
             {
               "node_type": "item",
               "title": "eosDataConditionSearch",
-              "description": null,
+              "description": "OracleChain/eosDataConditionSearch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1323,7 +1323,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T07:32:53.479Z",
+    "last_updated": "2026-10-03T04:46:16.370Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of EOS Ecosystem by SuperONE.",
