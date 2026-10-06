@@ -1240,7 +1240,7 @@
                 "open_issues": 5,
                 "owner": "OracleChain",
                 "repo": "PocketEOS-IOS",
-                "stars": 111,
+                "stars": 110,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:23:14.439Z"
@@ -1323,7 +1323,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T07:42:45.230Z",
+    "last_updated": "2026-10-06T08:09:59.531Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of EOS Ecosystem by SuperONE.",
