@@ -686,7 +686,7 @@
             "open_issues": 53,
             "owner": "EOSIO",
             "repo": "eosjs",
-            "stars": 1423,
+            "stars": 1422,
             "topics": []
           },
           "first_seen": "2026-08-28T13:23:14.439Z"
@@ -1323,7 +1323,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T08:00:55.320Z",
+    "last_updated": "2026-10-09T08:01:52.007Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of EOS Ecosystem by SuperONE.",
