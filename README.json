@@ -319,8 +319,8 @@
                 "id": 134008831,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-16T11:01:22Z",
-                "open_issues": 245,
+                "last_commit": "2026-10-17T13:40:45Z",
+                "open_issues": 247,
                 "owner": "greymass",
                 "repo": "anchor",
                 "stars": 589,
@@ -573,7 +573,7 @@
             "open_issues": 384,
             "owner": "EOSIO",
             "repo": "eos",
-            "stars": 11164,
+            "stars": 11163,
             "topics": [
               "eosio"
             ]
@@ -817,7 +817,7 @@
                 "open_issues": 384,
                 "owner": "EOSIO",
                 "repo": "eos",
-                "stars": 11164,
+                "stars": 11163,
                 "topics": [
                   "eosio"
                 ]
@@ -1323,7 +1323,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T06:15:19.247Z",
+    "last_updated": "2026-10-18T06:37:36.272Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of EOS Ecosystem by SuperONE.",
