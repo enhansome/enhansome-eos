@@ -323,7 +323,7 @@
                 "open_issues": 246,
                 "owner": "greymass",
                 "repo": "anchor",
-                "stars": 589,
+                "stars": 590,
                 "topics": [
                   "authenticator",
                   "eos",
@@ -1323,7 +1323,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T06:54:39.108Z",
+    "last_updated": "2026-10-20T06:40:08.868Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of EOS Ecosystem by SuperONE.",
