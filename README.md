@@ -2,7 +2,7 @@
 
 A curated list of EOS Ecosystem by [SuperONE](https://superone.io).
 
-[![](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)](https://github.com/sindresorhus/awesome) ⭐ 534,473 | 🐛 103 | 📅 2026-09-02
+[![](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)](https://github.com/sindresorhus/awesome) ⭐ 535,049 | 🐛 103 | 📅 2026-09-02
 [![](https://camo.githubusercontent.com/cb8cb80af654f3dae14a4aa62e44bf62f16953d6/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f6c616e672f6368696e6573652e737667)](README.md)
 [![](https://camo.githubusercontent.com/15a53d5ec5d896319068168a27da0203156bbdb9/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f6c616e672f656e676c6973682e737667)](README-en.md)
 
@@ -171,7 +171,7 @@ EOS 资源汇总。提交 PR 参考 [contributing](contributing.md)，提交 iss
 ## 开发
 
 * <https://github.com/EOSIO/eosjs> ⚠️ Archived, Javascript
-* [eos-go](https://github.com/eoscanada/eos-go) ⭐ 553 | 🐛 22 | 🌐 Go | 📅 2024-10-29，Go
+* [eos-go](https://github.com/eoscanada/eos-go) ⭐ 554 | 🐛 22 | 🌐 Go | 📅 2024-10-29，Go
 * <https://github.com/OracleChain/EOSDevHelper> ⭐ 257 | 🐛 2 | 🌐 C++ | 📅 2018-11-20，EOSDevHelper 是一个跨平台 PC 端 EOS 钱包工具，由 OracleChain 团队研发
 * <https://github.com/ProChain/SwiftyEOS> ⚠️ Archived，Swift
 * <https://github.com/EOS-BP-Developers/EOS-Test-Cave> ⭐ 21 | 🐛 0 | 🌐 Assembly | 📅 2018-10-31, EOS 校验自动化测试工具
@@ -455,4 +455,4 @@ SuperONE, robin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
