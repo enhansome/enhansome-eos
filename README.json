@@ -573,7 +573,7 @@
             "open_issues": 384,
             "owner": "EOSIO",
             "repo": "eos",
-            "stars": 11165,
+            "stars": 11164,
             "topics": [
               "eosio"
             ]
@@ -817,7 +817,7 @@
                 "open_issues": 384,
                 "owner": "EOSIO",
                 "repo": "eos",
-                "stars": 11165,
+                "stars": 11164,
                 "topics": [
                   "eosio"
                 ]
@@ -1323,7 +1323,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T11:39:11.095Z",
+    "last_updated": "2026-11-25T10:31:35.135Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of EOS Ecosystem by SuperONE.",
